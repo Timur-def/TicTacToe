@@ -1,0 +1,27 @@
+.winnerMessage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #0000007e;
+  height: 100vh;
+  width: 100vw;
+}
+
+.winnerWindow {
+  width: 380px;
+  height: 180px;
+  border: 5px solid #946128;
+  background-color: #bb803d;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  color: wheat;
+}
+

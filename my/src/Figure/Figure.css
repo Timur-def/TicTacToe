@@ -1,0 +1,13 @@
+.figursPlayers {
+  width: 300px;
+  height: 800px;
+  border: 5px solid #946128;
+  background-color: #bb803d;
+  border-radius: 80px;
+  box-shadow: 5px 5px 20px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+}

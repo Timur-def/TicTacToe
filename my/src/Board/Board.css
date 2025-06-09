@@ -1,0 +1,18 @@
+.poleCrestsCircles {
+  display: flex;
+  flex-wrap: wrap;
+  width: 630px;
+  justify-content: center;
+  margin: 30px 100px 30px 100px;
+  background-color: #bb803d;
+  box-shadow: 5px 5px 20px 0px;
+}
+.block {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: 5px solid #946128;
+}
