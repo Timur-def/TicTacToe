@@ -1,6 +1,6 @@
 import './WinnerWindow.css'
 
-export default function Figure({winner, resetGame}) {
+export default function WinnerWindow({winner, resetGame}) {
   return (
     <>
       {winner && (
